@@ -5,8 +5,12 @@ def function_one(function_parameter):
 
     # 2. We create the second function with parameters about "sum function (a,b)"
     def function_second(a, b):
+        
+        # 3. Inside this function we need to put the function_parameter with parameters a, b
+        function_parameter(a, b)
 
-
+    # 4. Return the second function
+    return function_second
 
 
 #This is simple sum function
