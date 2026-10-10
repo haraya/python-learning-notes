@@ -3,7 +3,7 @@
 # 1. We need to create a function to receive a function as parameter 
 def function_one(function_parameter):
 
-    # 2. We create the second function with parameters about "sum function (a,b)"
+    # 2. We create the second function with parameters about "add function (a,b)"
     def function_second(a, b):
         print("Hello from second function decorator....")
 
@@ -14,12 +14,12 @@ def function_one(function_parameter):
     return function_second
 
 
-# 5. We call the decorator in this sum function
+# 5. We call the decorator in this add function
 @function_one
-def sum(a, b):
-    #This is simple sum function
+def add(a, b):
+    #This is simple add function
     print(f"The result is: {a + b}")
 
 
-# 6. Call the sum function
-sum(2, 6)
+# 6. Call the add function
+add(2, 6)
