@@ -8,8 +8,8 @@ This repository contains notes, explanations, and code snippets that I create as
 
 | Topic | Description | Link |
 | :--- | :--- | :--- |
-| **Decorators** | Concepts of wrapper functions, and decorators with parameters | [Ver módulo](https://github.com/haraya/python-learning-notes/tree/2bf3e22e4abf2bf470656b129ec8f719d2b9160d/python_decorator) |
-| *Next topic* | *Brief description of the concept* | *Link* |
+| **Decorators** | Concepts of wrapper functions and decorators with parameters | [Ver módulo](https://github.com/haraya/python-learning-notes/tree/2bf3e22e4abf2bf470656b129ec8f719d2b9160d/python_decorator) |
+| *Classes* | *Brief description of the concept* | *Link* |
 
 ---
 
