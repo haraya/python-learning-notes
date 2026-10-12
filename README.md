@@ -1,20 +1,20 @@
 # 🐍 Python Learning Notes
 
-Este repositorio contiene notas, explicaciones y fragmentos de código que voy creando a medida que exploro y refuerzo conceptos de Python.
+This repository contains notes, explanations, and code snippets that I create as I explore and reinforce Python concepts.
 
 ---
 
-## 📂 Contenido por Temas
+## 📂 Content by Topic
 
-| Tema | Descripción | Enlace |
+| Topic | Description | Link |
 | :--- | :--- | :--- |
-| **Decoradores** | Conceptos de funciones envolventes, `@wraps` y decoradores con parámetros | [Ver módulo](./decoradores) |
-| *Próximo tema* | *Descripción breve del concepto* | *Enlace* |
+| **Decorators** | Concepts of wrapper functions, and decorators with parameters | [Ver módulo](https://github.com/haraya/python-learning-notes/tree/2bf3e22e4abf2bf470656b129ec8f719d2b9160d/python_decorator) |
+| *Next topic* | *Brief description of the concept* | *Link* |
 
 ---
 
-## 🛠️ Cómo ejecutar los ejemplos
+## 🛠️ How to run the examples
 
-1. Clona este repositorio:
+1. Clone this repository:
    ```bash
-   git clone [https://github.com/tu-usuario/python-learning-notes.git](https://github.com/tu-usuario/python-learning-notes.git)
+   git clone https://github.com/haraya/python-learning-notes.git
